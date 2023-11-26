@@ -18,3 +18,33 @@ img {
 .avatar {
     width:200px;
 }
+
+div {
+    color: green;
+    size: 24px;
+    background-color: aqua;
+    font-size: x-large;
+    opacity: 0.5;
+    border-radius: 10px;
+    ea-inset-top;
+    large;
+}
+
+.bigFont:hover {
+    font-size: 36px;
+    color: red;
+    background-color: lightblue;
+}
+
+#backgroundRed { 
+    background-color: Red;
+
+}
+
+#address{
+    height:200px
+}
+
+.fix-Width{
+    width:200px
+}

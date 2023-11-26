@@ -1,0 +1,32 @@
+p {
+    background-color: white;
+}
+
+li {
+    color:darkblue;
+}
+
+h3 {
+    font-style:italic;
+}
+
+img {
+    opacity: 0.8;
+    border-radius: 50%;
+}
+
+.formatClass {
+    width:200px;
+    font: size 12px;
+    background-color:darkblue;
+}
+
+
+.lineDesign{
+    display:block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    border-style:inset;
+    border-width:2px
+}
+
